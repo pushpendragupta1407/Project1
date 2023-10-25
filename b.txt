@@ -1,6 +1,6 @@
 text file
 
+update made on b.txt file
 
 
-
-This is from old update
+This is xyz update
