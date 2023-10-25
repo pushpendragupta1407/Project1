@@ -1,3 +1,6 @@
 text file
 
 update made on b.txt file
+
+
+This is new update
